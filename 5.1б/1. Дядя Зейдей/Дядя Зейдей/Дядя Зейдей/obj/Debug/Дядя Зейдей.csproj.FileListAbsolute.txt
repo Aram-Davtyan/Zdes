@@ -1,0 +1,30 @@
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe.config
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.pdb
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Form1.resources
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Properties.Resources.resources
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.pdb
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe.config
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.pdb
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Form1.resources
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Properties.Resources.resources
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\Забыл как называется\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.pdb
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe.config
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\bin\Debug\Дядя Зейдей.pdb
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Form1.resources
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя_Зейдей.Properties.Resources.resources
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.exe
+C:\Users\1\Desktop\ВычМетоды\Дядя Зейдей\Дядя Зейдей\Дядя Зейдей\obj\Debug\Дядя Зейдей.pdb
